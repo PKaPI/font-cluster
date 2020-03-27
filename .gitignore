@@ -1,0 +1,6 @@
+.vscode
+node_modules
+config/manifest.json
+run
+logs
+cache
